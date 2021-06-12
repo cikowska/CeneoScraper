@@ -132,4 +132,5 @@ dmypy.json
 .vscode
 
 # results directories
-opinions
+reviews
+plots
